@@ -1,5 +1,5 @@
 # Airbnb-Booking-Analysis
-AIRBNB BOOKING ANALYSIS 
+
 Our Problem statement is to analyse Airbnb dataset provided by Almabetter. Our step ranges from reading the file to cleaning, visualization, hypothesis testing as well as answering custom questions.
 Our initial steps involve reading the file, basic exploration of data description, statistical description of data, univariate and multivariate visualization.
 On our next step, we checked for null values and handled them by imputation method. We even segregated our dataset into two sets based on ‘reviewed column’. Main purpose of the segregation was that, ‘reviewed column’ had a lot of null values and we didn’t want to drop as it could have important data pattern.
